@@ -57,6 +57,11 @@ Find security vulnerabilities, compliance issues, and infrastructure misconfigur
 <img alt="GitHub Workflows" src="docs/img/logo-github-icon.png" width="100">&nbsp;&nbsp;&nbsp;
 <img alt="OpenTofu" src="docs/img/logo-opentofu.png" width="150">&nbsp;&nbsp;&nbsp;
 
+
+
+
+
+
 #### Beta Features
 <img alt="Databricks" src="docs/img/logo-databricks.png" width="200">&nbsp;&nbsp;&nbsp;
 <img alt="NIFCloud" src="docs/img/logo-nifcloud.png" width="110">&nbsp;&nbsp;&nbsp;
